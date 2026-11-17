@@ -2,7 +2,7 @@
 
 - Bounty: gta6-twitch-ccu-forecast-01 ("Forecast GTA VI's launch-day Twitch viewers hour by hour"), $250, FREE, top 1 $50. Entries close 08:00 WIB 19 Nov 2026 (deadline 2026-11-19T01:00:00Z).
 - Repo: https://github.com/Dilslino/gta6-twitch-ccu-forecast-01-entry
-- Commit: TBD (filled after the code commit)
+- Commit: `fa45cbceb17809a3c0a66317072aa46ebdb702d9` (code commit; HEAD adds the commit SHA to this report)
 - Anchor: `makefun anchor b9486093d55f1e9385af3c400800306a742e3f4c round 34033510` (drand quicknet, wallet 8cBTj29b2Uwn8yHrhRsss2YkWb5pNV2xJLxaM354zr6x)
 - Bundle-transcript bounty (sealedWindow null — no strict recording used).
 - Built: 17 Nov 2026, fresh session (attempt 2). main.py written fresh in this session from the verified design of attempt 1; validated with a fresh in-session scorer.
